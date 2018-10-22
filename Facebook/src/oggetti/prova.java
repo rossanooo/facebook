@@ -31,5 +31,6 @@ public class prova
 		int eta = sc.nextInt();
 		a.setEta(eta);
 		friends.aggiungiAmico(a);
+		
 	}
 }
