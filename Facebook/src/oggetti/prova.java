@@ -91,6 +91,5 @@ public class prova
 					System.out.println("Inserimento errato");
 			}
 		} while (controllo = true);
-		sc.close();
 	}	
 }
