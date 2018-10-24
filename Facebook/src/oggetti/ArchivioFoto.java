@@ -19,4 +19,14 @@ public class ArchivioFoto
 		}
 		return false;
 	}
+	
+	public void amicoPiùTaggato() 
+	{
+		
+	}
+
+	public void contaTag() 
+	{
+		
+	}
 }
