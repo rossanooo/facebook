@@ -22,11 +22,20 @@ public class ArchivioFoto
 	
 	public void amicoPiùTaggato() 
 	{
-		
+		for (int i = 0; i < indice; i ++)
+		{
+			
+		}
 	}
 
 	public void contaTag() 
 	{
-		
+		int conta = 0;
+		tag = sc.nextLine;
+		for (int i = 0; i < indice; i ++)
+		{
+			if (tag == a)
+				conta = conta + 1;
+		}
 	}
 }
